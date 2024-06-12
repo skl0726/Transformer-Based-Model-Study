@@ -4,6 +4,6 @@ Paper Review: [Notion](https://frost-crate-a82.notion.site/Attention-Is-All-You-
 ## An Image is Worth 16x16 Words - Transformers for Image Recognition at Scale
 Paper Review: [Notion](https://frost-crate-a82.notion.site/An-Image-is-Worth-16x16-Words-Transformers-for-Image-Recognition-at-Scale-b01180dcfecf43a09970ec2a30cbd2ef?pvs=4)<br/>
 PyTorch Code: [ViT](https://github.com/skl0726/Transformer-Based-Model-Study/tree/main/ViT)
-## CLIP
+## Learning Transferable Visual Models From Natural Language Supervision
 Payer Review: [Notion](https://frost-crate-a82.notion.site/Learning-Transferable-Visual-Models-From-Natural-Language-Supervision-690fbb22d43548999a047ab5786441c3?pvs=4)<br/>
 PyTorch Code: [CLIP](https://github.com/skl0726/Transformer-Based-Model-Study/tree/main/CLIP)
