@@ -13,3 +13,6 @@ PyTorch Code: [DETR](https://github.com/skl0726/Transformer-Based-Model-Study/tr
 ## DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION
 Paper Review: [Notion](https://frost-crate-a82.notion.site/DEFORMABLE-DETR-DEFORMABLE-TRANSFORMERS-FOR-END-TO-END-OBJECT-DETECTION-a16145d165ef4846b2753f131dffc448?pvs=4)<br/>
 PyTorch Code: [Deformable-DETR](https://github.com/skl0726/Transformer-Based-Model-Study/tree/main/Deformable-DETR)
+## Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+Paper Review: [Notion](https://frost-crate-a82.notion.site/Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows-1340e0059d2145f4925c99c6f2f0e727?pvs=4)<br/>
+PyTorch Code: [Swin-Transformer]()
